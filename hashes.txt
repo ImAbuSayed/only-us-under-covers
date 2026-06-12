@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Only Us Under Covers
+
+This log tracks the cryptographic history and versioning for the song **Only Us Under Covers** (only-us-under-covers).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-12T12:51:31.955358 | `v1` | `58299e2404b90b1d6f8a17fd85961590eb609a45ef40f507ff688b2786377c2d` | `0241f1357d172f0828591e3082d57ff622944c622feef7758d794a451167fc18` | `2026-06-12_only-us-under-covers-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

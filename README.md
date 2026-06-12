@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/only-us-under-covers/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Only Us Under Covers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-us-under-covers/) |
+| **Get License** | [Get License For Only Us Under Covers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-us-under-covers/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `58299e2404b90b1d6f8a17fd85961590eb609a45ef40f507ff688b2786377c2d` |
 | **Timestamp** | June 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
