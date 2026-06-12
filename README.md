@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/only-us-under-covers/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Only Us Under Covers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-us-under-covers/) |
+| **Get License** | [Secure Licensing Rights for Only Us Under Covers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-us-under-covers/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Close the blinds and let the shadow fall
+> Your silhouette is painted on the wall
+> I hear your breath against the quiet night
+> Everything we are feels so right
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
